@@ -70,6 +70,24 @@
 - `20b_factorial.dart`  
   Determina el factorial de un número llamándolo desde una función.
 
+- `20c_factorial.dart` 
+  el código pide un número, calcula su factorial de forma recursiva y muestra el resultado.
+
+- `21recursividad`
+  este código calcula el factorial de un número ingresado por el usuario, pero además protege contra entradas inválidas (números negativos).
+
+- `22_stacks`
+  este código implementa una pila dinámica (estructura LIFO: Last In, First Out) en Dart, con operaciones de push (insertar), pop (sacar) y mostrar.
+
+- `23_queue`
+  este programa implementa una cola dinámica en Dart con operaciones de insertar (push), borrar (pop) y mostrar.
+
+- `24_try_catch`
+  este código calcula el factorial de manera iterativa y además es más robusto porque maneja entradas inválidas y números negativos con excepciones.
+
+- `25_Gestion`
+  este código es un mini sistema de gestión de tickets que usa una cola para los tickets y una pila para las acciones del técnico, mostrando cómo se aplican estas estructuras de datos en un escenario práctico.
+
   # investigacion 1:
   # ¿Qué es Markdown?
 
